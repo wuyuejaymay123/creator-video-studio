@@ -1,0 +1,6 @@
+interface:
+  display_name: "短视频创作工作室"
+  short_description: "从口语脚本到表情动作、语义画面、实拍转场及图片动画，逐句联动制作"
+  default_prompt: "用 $creator-video-studio 把我的主题写成能直接拍的口播稿，联动表情动作、露脸安排、语义画面与实拍转场。"
+policy:
+  allow_implicit_invocation: true
